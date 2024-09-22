@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abhishek Sharma</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-     
-- 🌱 I’m currently learning **Low Level Design**
 
-- 💬 Ask me about **Web development**
+- 💬 Ask me about **Analytics and development field**
 
-- 📫 How to reach me **abhishekyosh264@gmail.com**
+- 📫 How to reach me **abhishek.sharma0212024@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
