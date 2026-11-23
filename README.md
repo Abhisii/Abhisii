@@ -52,7 +52,7 @@ B.Tech, Netaji Subhas University of Technology (NSUT'25) • Claude Certified De
 | **Hinglish-to-Hindi Screen Translator** | Android (Floating Overlay), Spring Boot, OpenRouter / Groq LLMs | Real-time on-screen Hinglish to Devanagari Hindi translation backed by a custom Spring Boot LLM client. |
 | **Daily Expense Tracker** | Flutter, Dart, Google Sheets API | Lightweight personal finance mobile app syncing transactions directly to Google Sheets via service account auth. |
 
-*(Update each project name above into a clickable `[Project Name](https://github.com/Abhisii/repo-name)` link once pushed publicly.)*
+
 
 ---
 
